@@ -27,5 +27,5 @@ python3 . -m
 ```
 
 ## 📸 Скриншоты
-<img src="icon.png" width="320" alt="Иконка калькулятора" align="left">
-<img src="screenshot.png" width="320" alt="Скриншот калькулятора" align="right">
+<img src="icon.png" width="320" alt="Иконка калькулятора">
+<img src="screenshot.png" width="320" alt="Скриншот калькулятора">
