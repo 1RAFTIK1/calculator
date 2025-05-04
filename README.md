@@ -27,4 +27,5 @@ python3 . -m
 ```
 
 ## 📸 Скриншоты
+![Screenshot](icon.png)
 ![Screenshot](screenshot.png)
